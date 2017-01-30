@@ -37,9 +37,11 @@ We believe in Unix-style libraries, that does one thing and does it well.
 Since we have control over those tools, they fit together nicely.
 
 
-
-<img href="https://avatars.githubusercontent.com/s4cha"/>
 ## Who we are
+
+<div class="github-card" data-github="s4cha" data-width="400" data-height="150" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 
 [test](https://avatars.githubusercontent.com/s4cha)
 [s4cha](https://github.com/orgs/freshOS/people/s4cha)  
