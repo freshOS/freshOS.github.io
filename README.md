@@ -30,17 +30,22 @@ Download our starter iOS Project to get a quick glance at what our tools can do 
 
 
 
-## About Us
-FreshOS is dedicated
+## Our mission
 
-iOS tools to make our lives easier.
+FreshOS mission is to provide iOS developers with simple tools to solve problems that 99% of iOS developers have.
+We believe developers should focus on valuable things like app logic, rather than casting the values of a JSON Parsing.
 
-Simple tools, Unix style, one too does one thing.
+Our goal is to automate as much as we can the everyday tasks an iOS developer has to do.
 
-All fit together nicely.
 
-## Support us on Github
+We thrive to make apis as simple as possible, but no simpler.
+We want to make Unix-style libraries, those should solve one thing and solve it well.
+Since we have control over those tools, they fit together nicely.
 
+
+## Who we are
+https://github.com/orgs/freshOS/people/s4cha
+https://github.com/orgs/freshOS/people/maxkonovalov
 
 
 ### Support or Contact
