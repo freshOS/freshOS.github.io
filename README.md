@@ -1,9 +1,15 @@
 ## Try it!
-
 Download our starter iOS Project to get a quick glance at what our tools can do for you :
 <div style="text-align:center">
 <a class="github-button" href="https://github.com/freshOS/StarterProject/archive/master.zip" data-icon="octicon-cloud-download" data-style="mega" aria-label="Download freshOS/StarterProject on GitHub">Download Starter Project</a>
 </div>
+
+## Our mission
+FreshOS mission is to provide iOS developers with simple tools to solve problems that 99% of us have.
+We believe developers should focus on valuable things like app logic, rather than casting the values of a JSON Parsing.
+We thrive to make apis as simple as possible, yet flexible enough to handle 99% of use-cases.
+We believe in Unix-style libraries, that does one thing and does it well.
+Since we have control over those tools, they fit together nicely.
 
 ## Libraries
 
@@ -26,15 +32,6 @@ Download our starter iOS Project to get a quick glance at what our tools can do 
 <a class="github-button" href="https://github.com/s4cha/AssetChecker" data-icon="octicon-star" data-style="mega" data-count-href="/s4cha/AssetChecker/stargazers" data-count-api="/repos/s4cha/AssetChecker#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star s4cha/AssetChecker on GitHub">Star</a>
 
 ### [SketchToSwift 📲](https://github.com/freshOS/SketchToSwift) - Generate Swift code from Sketch designs - <a class="github-button" href="https://github.com/freshOS/SketchToSwift" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/SketchToSwift/stargazers" data-count-api="/repos/freshOS/SketchToSwift#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/SketchToSwift on GitHub">Star</a>
-
-
-## Our mission
-
-FreshOS mission is to provide iOS developers with simple tools to solve problems that 99% of us have.
-We believe developers should focus on valuable things like app logic, rather than casting the values of a JSON Parsing.
-We thrive to make apis as simple as possible, yet flexible enough to handle 99% of use-cases.
-We believe in Unix-style libraries, that does one thing and does it well.
-Since we have control over those tools, they fit together nicely.
 
 
 ## Who we are
