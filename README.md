@@ -45,8 +45,6 @@ Since we have control over those tools, they fit together nicely.
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 
-![test](https://avatars.githubusercontent.com/s4cha)
-
 
 
 ## Support/Contact
