@@ -1,9 +1,9 @@
-## Try our tools
+## Try it!
 
-Download our starter iOS Project to get a quick glance at what our tools can do :
-
-<!-- Place this tag where you want the button to render. -->
+Download our starter iOS Project to get a quick glance at what our tools can do for you :
+<div style="text-align:center">
 <a class="github-button" href="https://github.com/freshOS/StarterProject/archive/master.zip" data-icon="octicon-cloud-download" data-style="mega" aria-label="Download freshOS/StarterProject on GitHub">Download Starter Project</a>
+</div>
 
 ## Libraries
 
@@ -22,33 +22,30 @@ Download our starter iOS Project to get a quick glance at what our tools can do 
 ### [Localize 🏁](https://github.com/freshOS/Localize) - Safety net for Localization files
 <a class="github-button" href="https://github.com/freshOS/Localize" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Localize/stargazers" data-count-api="/repos/freshOS/Localize#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Localize on GitHub">Star</a>
 
-### [Asset Checker 🏁](https://github.com/s4cha/AssetChecker) - Safety net for Image assets
+### [Asset Checker 👮](https://github.com/s4cha/AssetChecker) - Safety net for Image assets
 <a class="github-button" href="https://github.com/s4cha/AssetChecker" data-icon="octicon-star" data-style="mega" data-count-href="/s4cha/AssetChecker/stargazers" data-count-api="/repos/s4cha/AssetChecker#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star s4cha/AssetChecker on GitHub">Star</a>
 
 ### [SketchToSwift 📲](https://github.com/freshOS/SketchToSwift) - Generate Swift code from Sketch designs
 <a class="github-button" href="https://github.com/freshOS/SketchToSwift" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/SketchToSwift/stargazers" data-count-api="/repos/freshOS/SketchToSwift#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/SketchToSwift on GitHub">Star</a>
 
 
+safety net
 
 ## Our mission
 
-FreshOS mission is to provide iOS developers with simple tools to solve problems that 99% of iOS developers have.
+FreshOS mission is to provide iOS developers with simple tools to solve problems that 99% of us have.
 We believe developers should focus on valuable things like app logic, rather than casting the values of a JSON Parsing.
-
-Our goal is to automate as much as we can the everyday tasks an iOS developer has to do.
-
-
-We thrive to make apis as simple as possible, but no simpler.
-We want to make Unix-style libraries, those should solve one thing and solve it well.
+We thrive to make apis as simple as possible, yet flexible enough to handle 99% of use-cases.
+We believe in Unix-style libraries, that does one thing and does it well.
 Since we have control over those tools, they fit together nicely.
 
 
 ## Who we are
-https://github.com/orgs/freshOS/people/s4cha
-https://github.com/orgs/freshOS/people/maxkonovalov
+[s4cha](https://github.com/orgs/freshOS/people/s4cha)
+[maxkonovalov](https://github.com/orgs/freshOS/people/maxkonovalov)
 
 
-### Support or Contact
+## Support/Contact
 You can raise github issues the project you need support with or contact me at sachadso@gmail.com
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
