@@ -7,17 +7,23 @@ Download our starter iOS Project to get a quick glance at what our tools can do 
 
 ## Libraries
 
-### [Stevia 🍃](https://github.com/freshOS/Stevia) - Simple Autolayout in code
+### [Stevia 🍃](https://github.com/freshOS/Stevia) - Human-readable Autolayout
 <a class="github-button" href="https://github.com/freshOS/Stevia" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Stevia/stargazers" data-count-api="/repos/freshOS/Stevia#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Stevia on GitHub">Star</a>
 
-### [ws ☁️](https://github.com/freshOS/ws) - Promise-based JSON webservice
+### [ws ☁️](https://github.com/freshOS/ws) - Promise-based JSON Networking
 <a class="github-button" href="https://github.com/freshOS/ws" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/ws/stargazers" data-count-api="/repos/freshOS/ws#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/ws on GitHub">Star</a>
 
-### [then 🎬](https://github.com/freshOS/then) - Clean your asynchronous code
+### [then 🎬](https://github.com/freshOS/then) - Simple Promises
 <a class="github-button" href="https://github.com/freshOS/then" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/then/stargazers" data-count-api="/repos/freshOS/then#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/then on GitHub">Star</a>
 
-### [Arrow 🏹](https://github.com/freshOS/Arrow) - Parse JSON with style
+### [Arrow 🏹](https://github.com/freshOS/Arrow) - Minimalist JSON Parsing
 <a class="github-button" href="https://github.com/freshOS/Arrow" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Arrow/stargazers" data-count-api="/repos/freshOS/Arrow#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Arrow on GitHub">Star</a>
+
+### [Localize 🏁](https://github.com/freshOS/Localize) - Safety net for Localization files
+<a class="github-button" href="https://github.com/freshOS/Localize" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Localize/stargazers" data-count-api="/repos/freshOS/Localize#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Localize on GitHub">Star</a>
+
+### [Asset Checker 🏁](https://github.com/s4cha/AssetChecker) - Safety net for Image assets
+<a class="github-button" href="https://github.com/s4cha/AssetChecker" data-icon="octicon-star" data-style="mega" data-count-href="/s4cha/AssetChecker/stargazers" data-count-api="/repos/s4cha/AssetChecker#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star s4cha/AssetChecker on GitHub">Star</a>
 
 ### [SketchToSwift 📲](https://github.com/freshOS/SketchToSwift) - Generate Swift code from Sketch designs
 <a class="github-button" href="https://github.com/freshOS/SketchToSwift" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/SketchToSwift/stargazers" data-count-api="/repos/freshOS/SketchToSwift#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/SketchToSwift on GitHub">Star</a>
