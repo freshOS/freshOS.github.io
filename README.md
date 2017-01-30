@@ -1,12 +1,12 @@
 ## Try it!
-Download our starter iOS Project to get a quick glance at what our tools can do for you :
+Download our starter iOS Project and see how our tools fit together in a typical iOS App:
 <div style="text-align:center">
 <a class="github-button" href="https://github.com/freshOS/StarterProject/archive/master.zip" data-icon="octicon-cloud-download" data-style="mega" aria-label="Download freshOS/StarterProject on GitHub">Download Starter Project</a>
 </div>
 
 ## Our mission
 FreshOS mission is to provide iOS developers with simple tools to solve problems that 99% of us have.
-We believe developers should focus on valuable things like app logic, rather than casting the values of a JSON Parsing.
+We believe developers should focus on valuable things like app logic, rather than casting the values of a JSON Parsing oO.
 We thrive to make apis as simple as possible, yet flexible enough to handle 99% of use-cases.
 We believe in Unix-style libraries, that does one thing and does it well.
 Since we have control over those tools, they fit together nicely.
@@ -42,13 +42,8 @@ Since we have control over those tools, they fit together nicely.
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 
-
-
 ## Support/Contact
-You can raise github issues the project you need support with or contact me at sachadso@gmail.com
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+You can raise a github issue on the project you need support with or contact us at [sachadso@gmail.com](sachadso@gmail.com)
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
