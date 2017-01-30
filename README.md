@@ -7,19 +7,19 @@ Download our starter iOS Project to get a quick glance at what our tools can do 
 
 ## Libraries
 
-### [Stevia 🍃](https://github.com/freshOS/Stevia)
+### [Stevia 🍃](https://github.com/freshOS/Stevia) - Simple Autolayout in code
 <a class="github-button" href="https://github.com/freshOS/Stevia" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Stevia/stargazers" data-count-api="/repos/freshOS/Stevia#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Stevia on GitHub">Star</a>
 
-### [ws ☁️](https://github.com/freshOS/ws)
+### [ws ☁️](https://github.com/freshOS/ws) - Promise-based JSON webservice
 <a class="github-button" href="https://github.com/freshOS/ws" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/ws/stargazers" data-count-api="/repos/freshOS/ws#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/ws on GitHub">Star</a>
 
-### [then 🎬](https://github.com/freshOS/then)
+### [then 🎬](https://github.com/freshOS/then) - Clean your asynchronous code
 <a class="github-button" href="https://github.com/freshOS/then" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/then/stargazers" data-count-api="/repos/freshOS/then#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/then on GitHub">Star</a>
 
-### [Arrow 🏹](https://github.com/freshOS/Arrow)
+### [Arrow 🏹](https://github.com/freshOS/Arrow) - Parse JSON with style
 <a class="github-button" href="https://github.com/freshOS/Arrow" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Arrow/stargazers" data-count-api="/repos/freshOS/Arrow#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Arrow on GitHub">Star</a>
 
-### [SketchToSwift 📲](https://github.com/freshOS/SketchToSwift)
+### [SketchToSwift 📲](https://github.com/freshOS/SketchToSwift) - Generate Swift code from Sketch designs
 <a class="github-button" href="https://github.com/freshOS/SketchToSwift" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/SketchToSwift/stargazers" data-count-api="/repos/freshOS/SketchToSwift#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/SketchToSwift on GitHub">Star</a>
 
 
