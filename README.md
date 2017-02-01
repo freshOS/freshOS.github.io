@@ -5,10 +5,10 @@ Download our starter iOS Project and see how our tools fit together in a typical
 </div>
 
 ## Our mission
-FreshOS mission is to provide iOS developers with simple tools to solve problems that 99% of us have.
-We believe developers should focus on valuable things like app logic, rather than casting the values of a JSON Parsing oO.
+FreshOS is on a mission to provide iOS developers with simple tools to solve problems that 99% of us have.
+We believe developers should focus on valuable things like app logic, rather than casting the values of a JSON Parsing \o/.
 We thrive to make apis as simple as possible, yet flexible enough to handle 99% of use-cases.
-We believe in Unix-style libraries, that does one thing and does it well.
+We believe in Unix-style libraries, that do one thing and do it well.
 Since we have control over those tools, they fit together nicely.
 
 ## Libraries
