@@ -14,8 +14,9 @@ Since we have control over those tools, they **fit together nicely**.
 # Solutions
 
 ## Write Expressive Layout
+Stevia 🍃 is the Simplest Swift Autolayout DSL
 
-### [Stevia 🍃](https://github.com/freshOS/Stevia) - Human-readable Autolayout
+### [Stevia 🍃](https://github.com/freshOS/Stevia)
 <a class="github-button" href="https://github.com/freshOS/Stevia" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Stevia/stargazers" data-count-api="/repos/freshOS/Stevia#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Stevia on GitHub">Star</a>
 
 ## Write Concise Networking Code
