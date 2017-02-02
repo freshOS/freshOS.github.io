@@ -1,7 +1,6 @@
 # Try it!
 Download our starter iOS Project and see how our tools fit together in a typical iOS App:  
-
-# <a class="github-button" href="https://github.com/freshOS/StarterProject/archive/master.zip" data-icon="octicon-cloud-download" data-style="mega" aria-label="Download freshOS/StarterProject on GitHub">Download Starter Project</a>
+<a class="github-button" href="https://github.com/freshOS/StarterProject/archive/master.zip" data-icon="octicon-cloud-download" data-style="mega" aria-label="Download freshOS/StarterProject on GitHub">Download Starter Project</a>
 
 # Our mission
 FreshOS is on a mission to provide iOS developers with simple tools to **solve problems that 99% of us have**.
