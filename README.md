@@ -1,17 +1,19 @@
-## Try it!
+# Try it!
 Download our starter iOS Project and see how our tools fit together in a typical iOS App:
 <div style="text-align:center">
 <a class="github-button" href="https://github.com/freshOS/StarterProject/archive/master.zip" data-icon="octicon-cloud-download" data-style="mega" aria-label="Download freshOS/StarterProject on GitHub">Download Starter Project</a>
 </div>
 
-## Our mission
+# Our mission
 FreshOS is on a mission to provide iOS developers with simple tools to solve problems that 99% of us have.
 We believe developers should focus on valuable things like app logic, rather than casting the values of a JSON Parsing \o/.
 We thrive to make apis as simple as possible, yet flexible enough to handle 99% of use-cases.
 We believe in Unix-style libraries, that do one thing and do it well.
 Since we have control over those tools, they fit together nicely.
 
-## Libraries
+# Solutions
+
+## View Layout
 
 ### [Stevia 🍃](https://github.com/freshOS/Stevia) - Human-readable Autolayout
 <a class="github-button" href="https://github.com/freshOS/Stevia" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Stevia/stargazers" data-count-api="/repos/freshOS/Stevia#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Stevia on GitHub">Star</a>
@@ -31,11 +33,13 @@ Since we have control over those tools, they fit together nicely.
 ### [Asset Checker 👮](https://github.com/s4cha/AssetChecker) - Safety net for Image assets
 <a class="github-button" href="https://github.com/s4cha/AssetChecker" data-icon="octicon-star" data-style="mega" data-count-href="/s4cha/AssetChecker/stargazers" data-count-api="/repos/s4cha/AssetChecker#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star s4cha/AssetChecker on GitHub">Star</a>
 
+
+## Integration - Save Time and reduce low-value labor
 ### [SketchToSwift 📲](https://github.com/freshOS/SketchToSwift) - Generate Swift code from Sketch designs
 <a class="github-button" href="https://github.com/freshOS/SketchToSwift" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/SketchToSwift/stargazers" data-count-api="/repos/freshOS/SketchToSwift#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/SketchToSwift on GitHub">Star</a>
 
 
-## Who we are
+# Who we are
 
 <div class="github-card" data-github="s4cha" data-width="400" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
@@ -43,7 +47,7 @@ Since we have control over those tools, they fit together nicely.
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 
-## Support/Contact
+# Support/Contact
 You can raise a github issue on the project you need support with or contact us at [sachadso@gmail.com](sachadso@gmail.com)
 
 <!-- Place this tag in your head or just before your close body tag. -->
