@@ -36,11 +36,11 @@ Stevia 🍃 is the Simplest Swift Autolayout DSL
 
 ## Reduce Stress & Errors
 
-### [Localize 🏁](https://github.com/freshOS/Localize) - Safety net for Localization files
-<a class="github-button" href="https://github.com/freshOS/Localize" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Localize/stargazers" data-count-api="/repos/freshOS/Localize#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Localize on GitHub">Star</a>
+### [Localize 🏁](https://github.com/freshOS/Localize) <a class="github-button" href="https://github.com/freshOS/Localize" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Localize/stargazers" data-count-api="/repos/freshOS/Localize#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Localize on GitHub">Star</a>
+Emit warnings and erros when Localizations are missing or unused
 
-### [Asset Checker 👮](https://github.com/s4cha/AssetChecker) - Safety net for Image assets
-<a class="github-button" href="https://github.com/s4cha/AssetChecker" data-icon="octicon-star" data-style="mega" data-count-href="/s4cha/AssetChecker/stargazers" data-count-api="/repos/s4cha/AssetChecker#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star s4cha/AssetChecker on GitHub">Star</a>
+### [Asset Checker 👮](https://github.com/s4cha/AssetChecker) <a class="github-button" href="https://github.com/s4cha/AssetChecker" data-icon="octicon-star" data-style="mega" data-count-href="/s4cha/AssetChecker/stargazers" data-count-api="/repos/s4cha/AssetChecker#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star s4cha/AssetChecker on GitHub">Star</a>
+Emit warnings and erros when assets are missing or unused
 
 ## Integrate Faster
 
