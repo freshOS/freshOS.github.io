@@ -29,9 +29,7 @@ Write concise networking code that leverages the power of Alamofire, promises an
 Make Async code delightful with Promises
 
 
-## JSON Parsing
-
-### [Arrow 🏹](https://github.com/freshOS/Arrow) <a class="github-button" href="https://github.com/freshOS/Arrow" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Arrow/stargazers" data-count-api="/repos/freshOS/Arrow#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Arrow on GitHub">Star</a>
+## JSON Parsing - [Arrow 🏹](https://github.com/freshOS/Arrow) <a class="github-button" href="https://github.com/freshOS/Arrow" data-icon="octicon-star" data-style="mega" data-count-href="/freshOS/Arrow/stargazers" data-count-api="/repos/freshOS/Arrow#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star freshOS/Arrow on GitHub">Star</a>
 Write minimalist JSON Parsing that infers type and doest get in the way of your models
 
 
