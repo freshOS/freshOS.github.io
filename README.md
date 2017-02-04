@@ -42,6 +42,14 @@ Generate Swift code from Sketch designs
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <div class="github-card" data-github="maxkonovalov" data-width="400" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+This wouldn't be possible without all the people that contributed via pull requests, issues or even just talking to them!
+
+# Production ready
+Our libraries have been Downloaded 41k+ times and already more than 900 Apps use freshOS Tools !
+
+*Source : Cocoapods*
+
+# Testimonials
 
 
 # Support/Contact
