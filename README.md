@@ -55,6 +55,11 @@ Our libraries have been Downloaded **41k+ times** and already more than **900 Ap
 *"Just want to say I love your different solutions. It's smart clean and easy to use."*  
 Florent Douine - iOS Developer
 
+*"Loving this library so far :)"*  
+MadnessJax - Github User
+
+*"Thank you for your work, this library made me want to code my views (instead of using IB)"*  
+pikanezi - Github User
 
 # Support/Contact
 You can raise a github issue on the project you need support with or contact us at [sachadso@gmail.com](sachadso@gmail.com)
