@@ -64,6 +64,8 @@ pikanezi - Github User
 *Thanks for the great library! It has streamlined my code quite a bit.*  
 edubar - Github User
 
+*HI, have just started using your library and am impressed overall!*  
+someone29926 - Github User
 
 # Support/Contact
 You can raise a github issue on the project you need support with or contact us at [sachadso@gmail.com](sachadso@gmail.com)
