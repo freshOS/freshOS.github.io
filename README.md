@@ -73,6 +73,6 @@ anonymous - HackerNews
 # Support/Contact
 You can raise a github issue on the project you need support with or contact us at [sachadso@gmail.com](sachadso@gmail.com)
 
-*Hosting sponsored with ❤️ by [Muxu.Muxu](https://muxumuxu.com)*
+*Hosting sponsored with 💚 by [Muxu.Muxu](https://muxumuxu.com)*
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
