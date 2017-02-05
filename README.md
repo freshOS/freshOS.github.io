@@ -67,6 +67,9 @@ edubar - Github User
 *HI, have just started using your library and am impressed overall!*  
 someone29926 - Github User
 
+*This kind of libraries really is perfect. Very focused, obviously simple and useful, no magic, and small. They make development easier one step at a time.*
+anonymous - HackerNews
+
 # Support/Contact
 You can raise a github issue on the project you need support with or contact us at [sachadso@gmail.com](sachadso@gmail.com)
 
