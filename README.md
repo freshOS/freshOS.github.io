@@ -52,13 +52,13 @@ Our libraries have been Downloaded **41k+ times** and already more than **900 Ap
 
 # Testimonials <3
 
-*"Just want to say I love your different solutions. It's smart clean and easy to use."*  
+*Just want to say I love your different solutions. It's smart clean and easy to use.*  
 Florent Douine - iOS Developer
 
-*"Loving this library so far :)"*  
+*Loving this library so far :)*  
 MadnessJax - Github User
 
-*"Thank you for your work, this library made me want to code my views (instead of using IB)"*  
+*Thank you for your work, this library made me want to code my views (instead of using IB)@mauran*  
 pikanezi - Github User
 
 *Thanks for the great library! It has streamlined my code quite a bit.*  
