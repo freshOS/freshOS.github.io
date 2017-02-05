@@ -55,6 +55,9 @@ Our libraries have been Downloaded **41k+ times** and already more than **900 Ap
 *Just want to say I love your different solutions. It's smart clean and easy to use.*  
 Florent Douine - iOS Developer
 
+*Man I just wanted to tell you that Stevia, then, Arrow and ws is the most beautiful thing ever made! Really! This is beautiful!*  
+Mauran Muthiah - Developer
+
 *Loving this library so far :)*  
 MadnessJax - Github User
 
