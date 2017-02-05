@@ -61,6 +61,10 @@ MadnessJax - Github User
 *"Thank you for your work, this library made me want to code my views (instead of using IB)"*  
 pikanezi - Github User
 
+*Thanks for the great library! It has streamlined my code quite a bit.*  
+edubar - Github User
+
+
 # Support/Contact
 You can raise a github issue on the project you need support with or contact us at [sachadso@gmail.com](sachadso@gmail.com)
 
