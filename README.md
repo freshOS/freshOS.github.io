@@ -52,6 +52,9 @@ Our libraries have been Downloaded **41k+ times** and already more than **900 Ap
 
 # Testimonials <3
 
+*"Just want to say I love your different solutions. It's smart clean and easy to use."*  
+Florent Douine - iOS Developer
+
 
 # Support/Contact
 You can raise a github issue on the project you need support with or contact us at [sachadso@gmail.com](sachadso@gmail.com)
