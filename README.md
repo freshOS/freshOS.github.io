@@ -52,6 +52,9 @@ Our libraries have been Downloaded **41k+ times** and already more than **900 Ap
 
 # Testimonials <3
 
+*Sketch to Swift is an amazing way to build quick prototypes. Always using to build small samples for my freelancing clients. Also using AssetChecker so I'm never messing up and breaking my code because I deleted or changed the name of an asset. I appreciate the work they put in freshOS and I'm glad AwesomeiOS has all of them*  
+Lucas Farah - Admin @[Awesome-iOS](https://github.com/vsouza/awesome-ios)
+
 *Just want to say I love your different solutions. It's smart clean and easy to use.*  
 Florent Douine - iOS Developer
 
