@@ -53,28 +53,16 @@ Our libraries have been Downloaded **41k+ times** and already more than **900 Ap
 # Testimonials <3
 
 *Sketch to Swift is an amazing way to build quick prototypes. Always using to build small samples for my freelancing clients. Also using AssetChecker so I'm never messing up and breaking my code because I deleted or changed the name of an asset. I appreciate the work they put in freshOS and I'm glad AwesomeiOS has all of them*  
-Lucas Farah - Admin @[Awesome-iOS](https://github.com/vsouza/awesome-ios)
+**Lucas Farah - Admin @[Awesome-iOS](https://github.com/vsouza/awesome-ios)**
 
 *Just want to say I love your different solutions. It's smart clean and easy to use.*  
-Florent Douine - iOS Developer
+**Florent Douine - iOS Developer**
 
 *Man I just wanted to tell you that Stevia, then, Arrow and ws is the most beautiful thing ever made! Really! This is beautiful!*  
-Mauran Muthiah - Developer
-
-*Loving this library so far :)*  
-MadnessJax - Github User
-
-*Thank you for your work, this library made me want to code my views (instead of using IB)@mauran*  
-pikanezi - Github User
-
-*Thanks for the great library! It has streamlined my code quite a bit.*  
-edubar - Github User
-
-*HI, have just started using your library and am impressed overall!*  
-someone29926 - Github User
+**Mauran Muthiah - Developer**
 
 *This kind of libraries really is perfect. Very focused, obviously simple and useful, no magic, and small. They make development easier one step at a time.*  
-anonymous - HackerNews
+**Anonymous - HackerNews**
 
 # Support/Contact
 You can raise a github issue on the project you need support with or contact us at [sachadso@gmail.com](sachadso@gmail.com)
