@@ -46,7 +46,7 @@ Let's not forget the 100+ people that contributed via pull requests, issues or e
 This wouldn't be possible without them <3
 
 # Production ready
-Our libraries have been Downloaded **41k+ times** and already more than **900 Apps** use freshOS tools!
+Our libraries have been Downloaded **109k+ times** and already more than **2000 Apps** use freshOS tools!
 
 *Source : Cocoapods*
 
